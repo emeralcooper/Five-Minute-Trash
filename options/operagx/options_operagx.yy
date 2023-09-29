@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.3",
+  "option_operagx_next_version": "1.0.0.4",
+  "option_operagx_game_name": "FiveSecondCrafts",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "c4431272-456a-47e0-87f4-1bea1102f04e",
+  "option_operagx_team_name": "(2e8d768a-9e11-4490-85de-0d9ba6fcd59f) studio",
+  "option_operagx_team_id": "2e8d768a-9e11-4490-85de-0d9ba6fcd59f",
+  "option_operagx_editUrl": "https://create.gx.games/game/c4431272-456a-47e0-87f4-1bea1102f04e/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
